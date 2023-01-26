@@ -1,0 +1,1 @@
+console.info("Bienvenido a la pagina");
